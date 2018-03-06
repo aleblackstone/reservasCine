@@ -13,7 +13,6 @@ window.onload = function(){
      }
  }
 
- 
 function guardarCompra(){
     let datosPase = leerStorage("pase");
 
