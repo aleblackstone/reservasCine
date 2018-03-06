@@ -1,0 +1,2154 @@
+{
+  "1": {
+      "fila": "1",
+      "asiento": "1",
+      "x": 0,
+      "y": 0,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "2": {
+      "fila": "1",
+      "asiento": "2",
+      "x": 160,
+      "y": 0,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "3": {
+      "fila": "1",
+      "asiento": "3",
+      "x": 320,
+      "y": 0,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "4": {
+      "fila": "1",
+      "asiento": "4",
+      "x": 480,
+      "y": 0,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "5": {
+      "fila": "1",
+      "asiento": "5",
+      "x": 640,
+      "y": 0,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "6": {
+      "fila": "2",
+      "asiento": "1",
+      "x": 0,
+      "y": 120,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "7": {
+      "fila": "2",
+      "asiento": "2",
+      "x": 160,
+      "y": 120,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "8": {
+      "fila": "2",
+      "asiento": "3",
+      "x": 320,
+      "y": 120,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "9": {
+      "fila": "2",
+      "asiento": "4",
+      "x": 480,
+      "y": 120,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "10": {
+      "fila": "2",
+      "asiento": "5",
+      "x": 640,
+      "y": 120,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "11": {
+      "fila": "3",
+      "asiento": "1",
+      "x": 0,
+      "y": 240,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "12": {
+      "fila": "3",
+      "asiento": "2",
+      "x": 160,
+      "y": 240,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "13": {
+      "fila": "3",
+      "asiento": "3",
+      "x": 320,
+      "y": 240,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "14": {
+      "fila": "3",
+      "asiento": "4",
+      "x": 480,
+      "y": 240
+      ,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "15": {
+      "fila": "3",
+      "asiento": "5",
+      "x": 640,
+      "y": 240
+      ,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "16": {
+      "fila": "4",
+      "asiento": "1",
+      "x": 0,
+      "y": 360,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "17": {
+      "fila": "4",
+      "asiento": "2",
+      "x": 160,
+      "y": 360,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "18": {
+      "fila": "4",
+      "asiento": "3",
+      "x": 320,
+      "y": 360,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "19": {
+      "fila": "4",
+      "asiento": "4",
+      "x": 480,
+      "y": 360,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "20": {
+      "fila": "4",
+      "asiento": "5",
+      "x": 640,
+      "y": 360,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "21": {
+      "fila": "5",
+      "asiento": "1",
+      "x": 0,
+      "y": 480,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    },
+    "22": {
+      "fila": "5",
+      "asiento": "2",
+      "x": 160,
+      "y": 480,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "23": {
+      "fila": "5",
+      "asiento": "3",
+      "x": 320,
+      "y": 480,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "24": {
+      "fila": "5",
+      "asiento": "4",
+      "x": 480,
+      "y": 480,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      }
+    },
+    "25": {
+      "fila": "5",
+      "asiento": "5",
+      "x": 640,
+      "y": 480,
+      "Los Juegos del Hambre parte 1":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Avatar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Ocho Apellidos Vascos":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Buscando a Nemo":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Wars Rogue One":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Interstellar":{
+        "pase1":{
+          "estado": "ocupado"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transporter":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "libre"
+        }
+      },
+      "Mision Imposible":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Transformer":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      },
+      "Star Treck, más allá":{
+        "pase1":{
+          "estado": "libre"
+        },
+        "pase2":{
+          "estado": "ocupado"
+        }
+      }
+    }
+}

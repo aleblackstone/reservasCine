@@ -1,0 +1,62 @@
+[
+    {
+        "titulo" : "Los Juegos del Hambre parte 1",
+        "sinopsis": "Después de participar en el Tercer Vasallaje de los 25 y de salir de nuevo con vida por sorpresa, Katniss Everdeen (Jennifer Lawrence, El lado bueno de las cosas) se enfrenta a su batalla más complicada en Los juegos del hambre 3, que adapta la primera parte de la novela de Suzzane Collins Sinsajo.En el desenlace de la trilogía distópica, una malherida e incluso afectada mentalmente Katniss deberá adaptarse a su nueva vida después de que los rebeldes del 'desaparecido' Distrito 13 la rescaten de la Arena al final de la 75 edición de los Juegos. Pero Peeta Mellark (Josh Hutcherson, Paradise Lost) no corre la misma suerte y, junto a otros tributos como Johanna Mason (Jena Malone, Orgullo y prejuicio) y Enobaria (Meta Golding, Los sustitutos), es capturado por el Capitolio, que lo somete a terribles torturas psicológicas, que incluso le hacen dudar de sus verdaderos sentimientos hacia Katniss.",
+        "foto": "images/juegos.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19539099"
+    },
+    {
+        "titulo" : "Avatar",
+        "sinopsis": "Corre el año 2154. Jake Sully es un antiguo marine que vive postrado en una silla de ruedas, pero cuya determinación y valentía se mantienen intactas. Ahora, tiene una misión entre manos: viajar a Pandora, un planeta del que los humanos extraen un mineral que puede acabar con la crisis energética de la Tierra. Sin embargo, este planeta posee una atmósfera extremadamente tóxica, por lo que se ha creado el programa Avatar, según el cual los humanos unen sus conciencias a un cuerpo biológico que, por control remoto, es capaz de sobrevivir al aire letal. Este cuerpo está compuesto tanto por ADN humano como por ADN de los Na'vis, las criaturas nativas de Pandora, entre las que Jake se tendrá que infiltrar empleando su nueva apariencia.",
+        "foto" : "images/avatar.png",
+        "trailer":"http://www.sensacine.com/_video/iblogvision.aspx?cmedia=18915989"
+    },
+    {
+        "titulo" : "Ocho Apellidos Vascos",
+        "sinopsis": "Rafa es un joven sevillano de familia adinerada que conoce a una preciosa chica vasca durante los días de la Feria de Sevilla. El chico se enamora completamente de ella y cuando regresa a su ciudad, este se da cuenta de que tendrá que viajar al norte si quiere recuperarla. Así, emprende una loca aventura enfrentándose al miedo de un lugar desconocido, distinto a todo lo que ha visto hasta ahora. Pero las cosas no serán más fáciles una vez allí, para conseguir la aprobación del padre de la chica, Rafa tendrá que hacerse pasar por vasco, una de sus peores pesadillas. Además, contará con la ayuda de una mujer mayor que se hará pasar por su madre. Todo ello, para que su futuro suegro esté satisfecho de que su hija tenga una relación con un vasco de pura cepa, y con sus ocho apellidos vascos. ",
+        "foto" : "images/apellidos.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19537919 "
+    },
+    {
+        "titulo" : "Buscando a Nemo",
+        "sinopsis": "En las aguas tropicales de la Gran Barrera de Coral, un pez payaso llamado Marlin lleva una apacible existencia junto a su único hijo, Nemo. Temeroso de los océanos y sus imprevisibles peligros, hace todo lo que puede para proteger a su hijo. Pero como todos los pececitos de su edad, Nemo sueña con explorar los misteriosos arrecifes de coral. Cuando Nemo desaparece, Marlin se convierte –muy a su pesar– en el héroe de una misión única y emocionante. El pobre padre ignora que su retoño con escamas ha terminado en el acuario de un dentista. Marlin no estará solo en esta aventura: la alegre Dori, un pez cirujano azul con problemas de memoria y gran corazón, va a convertirse en una ayuda inestimable. Juntos, los dos peces se enfrentarán a innumerables peligros, pero la optimista Dori empujará a Marlin a superar todos sus miedos.",
+        "foto" : "images/nemo.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19359138"
+    },
+    {
+        "titulo" : "Star Wars Rogue One",
+        "sinopsis": "Jyn Erso (Felicity Jones) es una problemática recluta Rebelde, hábil y testaruda, que está a punto de experimentar su mayor desafío hasta la fecha. Mon Mothma (Genevieve O'Reilly), Senadora y líder secreto de la Alianza Rebelde, le ha confiado el mando de un importante cometido: robar los planos de la Estrella de la Muerte, la última y destructiva arma del Imperio Galáctico que tiene a Orson Krennic (Ben Mendelsohn) como director de seguridad. Este nave secreta y letal es capaz de hacer saltar por los aires planetas enteros en un pestañeo, por ello no hay tiempo que perder y el grupo de Rebeldes liderado por Jyn tendrá que embarcarse de inmediato en esta arriesgada misión, que les hará formar parte de algo más grande que ellos mismos.",
+        "foto" : "images/starWars.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19549997"
+    },
+    {
+        "titulo" : "Interstellar",
+        "sinopsis": "Inspirada en la teoría del experto en relatividad Kip Stepehen Thorne sobre la existencia de los agujeros de gusano, y su función como canal para llevar a cabo los viajes en el tiempo. La historia gira en torno a un grupo de intrépidos exploradores que se adentran por uno de esos agujeros y viajan a través del mismo, encontrándose en otra dimensión. Un mundo desconocido se abre ante ellos y deberán luchar por mantenerse unidos si quieren volver de una pieza. La película cuenta con un reparto de lujo con nombres como Matthew McConaughey ('Sahara'), Anne Hathaway ('El caballero oscuro. La leyenda renace'), Jessica Chastain ('La noche más oscura') y Michael Caine ('El caballero oscuro'), todos ellos a las órdenes de Christopher Nolan ('Memento', 'Origen').",
+        "foto" : "images/interestellar.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19539171"
+    },
+    {
+        "titulo" : "Transporter",
+        "sinopsis": "Frank Martin (Jason Statham) es un antiguo miembro de las Fuerzas Especiales. Decidió retirarse y comenzar una nueva vida en Miami, trabajando para una familia rica. Las relaciones con la familia no son muy buenas, solamente consigue hacer buenas migas con Jack Billing, un niño de seis años a quien se encarga de llevar al colegio.  El secuestro del niño le obligará a incorporarse de nuevo como agente, iniciando una investigación por su cuenta hasta dar con el secuestrador y desafiando al FBI. Tendrá que emplear todas sus habilidades si quiere arruinar el plan de los secuestradores de liberar un virus, que mata a quien entre en contacto con él.",
+        "foto" : "images/transporter.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19416715"
+    },
+    {
+        "titulo" : "Mision Imposible",
+        "sinopsis": "En Misión Imposible: Nación Secreta, Ethan Hunt y su equipo tienen que plantarle cara a la misión más importante y difícil con la que se han topado hasta la fecha: borrar del mapa al Sindicato, la organización secreta e internacional cuyas habilidades son similares a las de Hunt.  De nuevo con persecuciones, grandes armas, mucha tensión y sobre todo peligro, la quinta película de la franquicia está protagonizada por Tom Cruise (Al filo del mañana, Oblivion); Simon Pegg (Héctor y el secreto de la felicidad); Jeremy Renner (Matar al mensajero, Marvel Los Vengadores); y Ving Rhames (Jamesy Boy). Está dirigida por Christopher McQuarrie (Al filo del mañana).",
+        "foto" : "images/mision.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19541670 "
+    },
+    {
+        "titulo" : "Transformer",
+        "sinopsis": "Tercera entrega de la franquicia inspirada en los famosos juguetes de Hasbro, protagonizada por Shia LaBeouf. La historia se centra en la carrera espacial entre la URSS y Estados Unidos, para llegar a la Luna donde podría haber un Transformer escondido, y convertirse en uno de los grandes secretos del planeta.",
+        "foto" : "images/transformer.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19203100 "
+    },
+    {
+        "titulo": "Star Treck, más allá",
+        "sinopsis": "El USS Enterprise, la nave insignia de la Flota Estelar, vuelve a surcar el universo para proteger la Tierra y el resto de planetas aliados en nombre de la Federación Unida de Planetas. Liderada por el capitán James T. Kirk (Chris Pine), la tripulación del crucero de batalla tendrá que enfrentarse a nuevos peligros que acabarán con su tranquilidad. La primera etapa de su misión llevará al equipo del USS Enterprise a un territorio desconocido, donde su travesía de vigilancia se convertirá en una carrera por la supervivencia espacial. Con la nave prácticamente destruida y sin forma de comunicarse, el equipo deberá plantar cara a un nuevo y fiero enemigo, Krall (Idris Elba), que pertenece a una especie alienígena avanzada. Para frenar los crueles planes de este villano.",
+        "foto": "images/starTreck.png",
+        "trailer": "http://www.sensacine.com/_video/iblogvision.aspx?cmedia=19548256"
+    }
+]

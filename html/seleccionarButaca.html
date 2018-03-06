@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Comprando</title>
+    <link rel="stylesheet" href="../style/pagButacas.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.1/css/toastr.css" rel="stylesheet"/>
+
+</head>
+<body>
+    <div id="cabecera">
+        <img src="../images/logo.svg" alt="Logo de la empresa">
+        <h1>Cines Yelmo</h1>
+    </div>
+    <div>
+        <svg id="lienzo" width="1000" height="700">
+            <symbol id="butaca" class="butacas">
+                <svg height="400" version="1.1" width="400" xmlns="http://www.w3.org/2000/svg">
+                <rect height="80" width="89" x="129" y="120.3" />
+                <ellipse cx="229.5" cy="160.3" rx="10.5" ry="41" />
+                <ellipse cx="117.5" cy="160.3" rx="10.5" ry="41" />
+                <rect height="14" width="93" x="128" y="202.3" />
+            </symbol>
+        </svg>
+    </div>
+    <div id="leyendaButacas">
+        <div>
+            <p>Butaca disponible</p><p style="background: green">as</p>     
+        </div>
+        <div>
+            <label >Butaca ocupada</label>
+            <p></p>
+        </div>
+        <div>
+            <label >Butaca seleccionada</label>
+            <p></p>
+        </div>
+    </div>
+    <div id="controles">
+        <a href="metodosPago.html" onclick="butacasReservadas()">Reservar Butacas</a>
+    </div>
+
+    <div id="pie">
+        <img src="../images/cc.png" alt=""/><label for="">Diseñado por Alejandro Cordero</label>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/toastr.js/2.0.1/js/toastr.js"></script> 
+    <script type="text/javascript" src="../js/butacas.js"></script>
+</body>
+</html>

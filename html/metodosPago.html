@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="../style/metodosPago.css">
+    <title>Confirmar Compra</title>
+</head>
+<body>
+
+    <div id="cabecera">
+        <img src="../images/logo.svg" alt="Logo de la empresa">
+        <h1>Cines Yelmo</h1>
+    </div>
+
+    <div id="factura">
+        <label for="">Fecha y hora</label>
+        <p></p>
+        <br>
+
+        <div id="asientosReservados">
+            <p>Asientos reservados</p>
+        </div>
+
+        <label for="">Precio por butaca: 7€</label>
+        <br>
+        <label for="">Precio Total</label>
+        <p id="precioTotal"></p>
+        <br>
+    </div>
+
+    <div class="container">
+        <div class="card"></div>
+        <div class="card">
+
+                <div class="input-container">
+                    <input type="#{type}" id="#{label}" required="required"/>
+                    <label for="#{label}">Nombre</label>
+                    <div class="bar"></div>
+                </div>
+                <div class="input-container">
+                    <input type="#{type}" id="#{label}" required="required"/>
+                    <label for="#{label}">Apellidos</label>
+                    <div class="bar"></div>
+                </div>
+                <div class="input-container">
+                        <input type="#{type}" id="#{label}" required="required"/>
+                        <label for="#{label}">Teléfono</label>
+                        <div class="bar"></div>
+                </div>
+                <div class="button-container">
+                    <button onclick="guardarCompra()"><span>Terminar y pagar</span></button>
+                </div>
+
+        </div>
+    </div>
+
+    <div id="pie">
+        <img src="../images/cc.png" alt=""/><label for="">Diseñado por Alejandro Cordero</label>
+    </div>
+
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="../js/metodosPago.js"></script>
+    
+</body>
+</html>
