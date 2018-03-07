@@ -20,8 +20,8 @@ body{
 .oculto{
     position: absolute;
     margin-top: -71px;
-    width: 396px;
-    height: 7%;
+    width: 400px;
+    height: 67px;
     background: lightgray;
     opacity: 0.7;
     color: black;
@@ -33,12 +33,15 @@ body{
     height: 100px;
     text-align: center;
     display: flex;
-    justify-content: space-between;
-    background: gray    ;
+    justify-content: center;
+    background: gray;
+    border: 4px outset darkgray;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #cabecera img{
     position: relative;
+    margin-right: 30px;
     bottom: 50px;
     width: 200px;
     height: 200px;
@@ -51,6 +54,9 @@ body{
 }
 
 .pelicula{
+    border: 4px outset darkgray;
+    background: grey;
+    padding: 5px;
     margin-top: 30px;
     transition: padding 1s;
 }

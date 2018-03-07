@@ -1,6 +1,5 @@
 body{
-    background: linear-gradient(#66ccff, white);
-    background-repeat: no-repeat;
+    background: WhiteSmoke  ;
 }
 
 #cabecera{
@@ -8,11 +7,15 @@ body{
     height: 100px;
     text-align: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    background: gray;
+    border: 4px outset darkgray;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #cabecera img{
     position: relative;
+    margin-right: 30px;
     bottom: 50px;
     width: 200px;
     height: 200px;
@@ -37,6 +40,7 @@ body{
 }
 
 .datos {
+    background: lightgray;
     position: relative;
     left: 32%;
     bottom: 60%;
@@ -44,15 +48,15 @@ body{
     height: 89%;
     text-align: center;
     font-size: 25px;
+    border: 8px outset darkgray;
 }
 
 #sinopsis{
     margin-left: 5%;
-    font-size: 30px;
+    font-size: 25px;
     text-align: left;
     width: 90%;
     height: 40%;
-    overflow: scroll;
 }
 
 iframe {
@@ -60,14 +64,20 @@ iframe {
     height: 418px;
 }
 
-#controles{
+#comprarEntrada{
     position: relative;
-    left: 32%;
-    width: 65%;
-    height: 5%;
+    top: 40px;
+    left: 45%;
+    width: 20%;
+    height: 180px;
 }
 
-#controles a{
+#volver{
+    position: relative;
+    top: 40px;
+}
+
+#comprarEntrada a{
     margin-left: 8%;
     text-decoration: none;
     padding: 10px;
@@ -78,7 +88,7 @@ iframe {
     border: 2px solid #0016b0;
 }
 
-#controles a:hover {
+#comprarEntrada a:hover {
     color: black;
     background-color: #ffffff;
 }

@@ -1,6 +1,5 @@
 body{
-    background: linear-gradient(#66ccff, white);
-    background-repeat: no-repeat;
+    background: WhiteSmoke  ;
 }
 
 #cabecera{
@@ -8,22 +7,27 @@ body{
     height: 100px;
     text-align: center;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    background: gray;
+    border: 4px outset darkgray;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #cabecera img{
     position: relative;
+    margin-right: 30px;
     bottom: 50px;
     width: 200px;
     height: 200px;
 }
-
 #container{
+    background: lightgray;
+    border: 8px outset darkgray;
     font-family: monospace;
     font-size: 25px;
     position: absolute;
     right: 0;
-    top: 0;
+    top: 200px;
     width: 25%;
     height: 30%;
     margin-top: 8%;
@@ -47,6 +51,7 @@ body{
 }
 
 #salaCine{
+    
     width: 60%;
 }
 
@@ -77,4 +82,12 @@ a{
 a:hover {
     color: black;
     background-color: #ffffff;
+}
+
+#pie{
+    background: lightgray;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    height: 7%;
 }
