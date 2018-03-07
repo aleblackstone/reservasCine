@@ -14,7 +14,7 @@
         <img src="../images/logo.svg" alt="Logo de la empresa">
         <h1>Cines Yelmo</h1>
     </div>
-    <div>
+    <div id="salaCine">
         <svg id="lienzo" width="1000" height="700">
             <symbol id="butaca" class="butacas">
                 <svg height="400" version="1.1" width="400" xmlns="http://www.w3.org/2000/svg">
@@ -25,21 +25,29 @@
             </symbol>
         </svg>
     </div>
-    <div id="leyendaButacas">
-        <div>
-            <p>Butaca disponible</p><p style="background: green">as</p>     
+    <div id="container">
+
+        <div id="leyendaButacas">
+            <div>
+                <h3>Butaca disponible<span  id="verde" class="leyenda" style="background:green">&nbsp;&nbsp;</span></h3>
+            </div>
+            <div>
+                <h3>Butaca ocupada<span  id="rojo" class="leyenda" style="background:red">&nbsp;&nbsp;</span ></h3>
+                <p></p>
+            </div>
+            <div>
+                <h3>Butaca seleccionada<span  id="azul" class="leyenda" style="background:blue">&nbsp;&nbsp;</span ></h3>
+                <p></p>
+            </div>
         </div>
-        <div>
-            <label >Butaca ocupada</label>
-            <p></p>
+
+        <div id="infoReserva">
+
         </div>
-        <div>
-            <label >Butaca seleccionada</label>
-            <p></p>
+
+        <div id="controles">
+            <a href="metodosPago.html" onclick="butacasReservadas()">Reservar Butacas</a>
         </div>
-    </div>
-    <div id="controles">
-        <a href="metodosPago.html" onclick="butacasReservadas()">Reservar Butacas</a>
     </div>
 
     <div id="pie">
