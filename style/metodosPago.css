@@ -1,11 +1,100 @@
+body{
+  background: linear-gradient(#66ccff, white);
+  background-repeat: no-repeat;
+}
 
+#cabecera{
+    width: 100%;
+    height: 100px;
+    margin-left: 35%;
+    display: flex;
+}
+
+#cabecera img{
+    position: relative;
+    margin-right: 20px;
+    bottom: 50px;
+    width: 200px;
+    height: 200px;
+}
+
+#entrada{
+  margin-left: 20%;
+  margin-top: 30px;
+  font-family: monospace;
+  width: 70%;
+  zoom: 1;
+  color: #4682B4;
+}
+
+#asientosReservados{
+  font-size: 25px;
+  position: absolute;
+  left: 1150px;
+  border-radius: 20px;
+  border: 2px solid #0016b0;
+  padding: 10px;
+  background: whitesmoke;
+}
+
+
+.infoButacas{
+  border-bottom: 2px dashed black;
+}
+
+
+#datosEntrada{
+  position: relative;
+  width: 500px;
+  bottom: 200px;
+  left: 220px;
+}
+
+#numButacas{
+  position: relative;
+  bottom: 250px;
+  left: 87px;
+}
+
+#entrada img{
+  zoom: 1.5;
+}
+
+#pie{
+    background: lightgray;
+    width: 100%;
+    height: 7%;
+}
+
+
+/*
+-----------------------------------------------------
+  Formulario diseño bonito
+-----------------------------------------------------
+*/
 /* Container */
 .container {
   position: relative;
-  max-width: 460px;
-  width: 100%;
+  width: 1400px;
   margin: 0 auto 100px;
 }
+
+.card{
+  display: flex !important;
+  flex-wrap: nowrap !important;
+}
+
+.button-container button{
+  background: lightblue !important;
+  color: black !important;
+  border-radius: 20px;
+}
+
+.button-container span{
+
+  color: black !important;
+}
+
 .container.active .card:first-child {
   background: #f2f2f2;
   margin: 0 15px;
@@ -346,30 +435,3 @@
   }
 }
 
-
-
-
-
-
-
-
-#cabecera{
-    width: 100%;
-    height: 100px;
-    text-align: center;
-    display: flex;
-    justify-content: space-between;
-}
-
-#cabecera img{
-    position: relative;
-    bottom: 50px;
-    width: 200px;
-    height: 200px;
-}
-
-#pie{
-    background: lightgray;
-    width: 100%;
-    height: 7%;
-}

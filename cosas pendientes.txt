@@ -1,0 +1,9 @@
+Editar diseño general de la web, colores...
+
+Hacer los pasillos en el svg...
+
+Meter en la entrada de cine los datos de la peli, con el horario
+
+Hacer formulario de pago, con los datos a insertar.
+
+Comprobar que no se pueda reservar sin haber seleccionado alguna butaca

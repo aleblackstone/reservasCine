@@ -1,5 +1,6 @@
 let listaButacas;
 let butacasReservadas;
+
 window.onload = function(){ 
     cargarButacas();
     butacasReservadas = leerStorage("butacasSeleccionadas");
@@ -20,25 +21,43 @@ function guardarCompra(){
         for(let j = 0; j < butacasReservadas.length; j++){
             if(listaButacas[i]["fila"] == butacasReservadas[j][0] && listaButacas[i]["asiento"] == butacasReservadas[j][1]){
                 listaButacas[i][datosPase[1]][datosPase[0]]["estado"] = "ocupado";
-                alert("wujaajajaj");
             }
         }
     }
     guardarConsulta(listaButacas,"listaButacas");
-
+    toastr.success("Se han reservado los asientos correctamente, redirigiendo");
+    setTimeout(function(){location.href ="/index.html";},2000)
 }
 
  function datosAsientos(){
+    let datosPase = leerStorage("pase");
      for(let i = 0; i < butacasReservadas.length; i++){
          $("#asientosReservados").append(
-             '<div>'+
-                '<p> Fila :' + butacasReservadas[i][0] + '</p>'+
-                '<p> Número asiento:' + butacasReservadas[i][1] + '</p>'+
+             '<div class="infoButacas">'+
+                '<p> Fila : ' + butacasReservadas[i][0] + ' // NumAsiento :'+ butacasReservadas[i][1] +'</p>'+
             '</div>'
         );
      }
-     let precioTotal = 7 * butacasReservadas.length;
-     $("#precioTotal").text(precioTotal+"€");
+
+    let hora = "16:15";
+    if(datosPase[0] == "pase1")
+        hora = "10:45";
+    
+    let precioTotal = 7 * butacasReservadas.length;
+    $("#entrada").append(
+        '<div id="datosEntrada">'+
+            '<h2>'+datosPase[1] + '</h2>'+
+            '<h2>'+ hora + '</h2>'+
+            '<h2>Total: '+precioTotal+' € </h2>'+
+        '</div>'
+    );
+
+    $("#entrada").append(
+        '<div id="numButacas">'+
+            '<h2>'+butacasReservadas.length+'</h2>'+
+        '</div>'
+    )
+
  }
 
  function leerStorage(clave){
