@@ -4,16 +4,12 @@ window.onload = function(){
     readTextFile("data/data.json", function(text){
         _data = JSON.parse(text);
     }); 
-<<<<<<< HEAD
-    let aux = setTimeout(crearPeliculas, 200);
-=======
     */
    readTextFile("/reservasCine/data/data.json", function(text){
     _data = JSON.parse(text);
     }); 
     
     let aux = setTimeout(crearPeliculas, 50);
->>>>>>> 3219c29f34c880ab5262e49d9ad1a317e92dd7d0
  };
 
  function readTextFile(file, callback) {
