@@ -3,8 +3,14 @@ let datosPase;
 
 window.onload = function(){ 
     listaAsientos = leerStorage("listaButacas");
+    /*
     if(listaAsientos == null){
         readTextFile("../data/asientos.json", function(text){
+            listaAsientos = JSON.parse(text);
+        }); 
+    }*/
+    if(listaAsientos == null){
+        readTextFile("/reservasCine/data/data.json", function(text){
             listaAsientos = JSON.parse(text);
         }); 
     }
