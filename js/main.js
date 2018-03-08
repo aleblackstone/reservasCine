@@ -9,7 +9,7 @@ window.onload = function(){
     _data = JSON.parse(text);
     }); 
     
-    let aux = setTimeout(crearPeliculas, 50);
+    let aux = setTimeout(crearPeliculas, 200);
  };
 
  function readTextFile(file, callback) {
