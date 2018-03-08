@@ -72,6 +72,52 @@ body{
     bottom: 0;
 }
 
+@media screen and (max-width: 414px){
+  #cabecera{
+    width:99%;
+  }
+  #entrada{
+    margin-left: 0;
+    width: 99%;
+    zoom: 0.48;
+    font-size: 21px;
+  }
+
+  #numButacas{
+    bottom: 300px;
+  }
+
+  #asientosReservados{ 
+    left: 25%;
+    top: 540px;
+  }
+
+  .contenedor {
+    width: 350px;
+    margin-top: 70px;
+  }
+  
+.input-container{
+  width: 90%;
+}
+
+#asientosReservados{
+  width: 90%;
+  left: 3%;
+}
+
+  .card{
+    width: 280px;
+    flex-wrap: wrap !important;
+  }
+
+  #pie{
+      position: relative;
+      top: 60em;
+      zoom: 0.7;
+  }
+}
+
 
 /*
 -----------------------------------------------------
@@ -86,8 +132,8 @@ body{
 }
 
 .card{
-  display: flex !important;
-  flex-wrap: nowrap !important;
+  display: flex ;
+  flex-wrap: nowrap ;
 }
 
 .button-container button{

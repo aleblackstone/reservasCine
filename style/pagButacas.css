@@ -91,3 +91,36 @@ a:hover {
     bottom: 0;
     height: 7%;
 }
+
+
+@media screen and (max-width: 414px){
+    #cabecera{
+        width:99%;
+    }
+    
+    #salaCine{
+        width: 99%;
+        height: 50%;
+        border: 2px solid red;
+    }
+
+    #lienzo{
+        zoom: 0.35;
+        border: 2px solid yellow;
+    }
+
+    #container{
+        top:0;
+        width: 95%;
+        position: relative;
+    }
+    a{
+        position: relative;
+        top: 58px;
+    }
+    #pie{
+        position: relative;
+        top: 150px;
+        width: 100%; 
+    }
+}

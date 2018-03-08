@@ -99,100 +99,41 @@ iframe {
     height: 7%;
 }
 
-@media screen and (max-width: 1450px){
+@media screen and (max-width: 414px){
+    #cabecera{
+        width:99%;
+    }
     #infoPelicula img{
-        width: 25%;
-        height: 50%;
-    }
-    .datos{
-        bottom: 40%;
-        width: 64%;
-        height: 75%;
-    }
-    iframe {
-        width: 510px;
-        height: 290px;
-    }
-    #controles{
-        left: 25%;
-    }
-}
-@media screen and (max-width: 1100px){
-    #infoPelicula img{
-        position: relative;
-        left: 40%;
-        width: 40%;
-        height: 400px;
-    }
-    .datos{
-        top: 20%;
-        left: 10%;
-        width: 90%;
-        height: 75%;
-    }
-    iframe {
-        width: 510px;
-        height: 290px;
-    }
-    #controles{
-        left: 25%;
-    }
-}
-@media screen and (max-width: 900px){
-    #infoPelicula img{
-        left: 22%;
-        width: 65%;
-        height: 450px;
-    }
-    .datos{
-        top: 20%;
-        left: 10%;
-        width: 90%;
-        height: 75%;
-    }
-    iframe {
-        width: 380px;
-        height: 210px;
-    }
-    #controles{
-        display: flex;
-        flex-flow: column;
-        width: 50%;
-    }
-    #controles a {
-        width: 240px;
-        margin-top: 5px;
-    }
-    p {
-        font-size: 20px;
-    }
-}
-@media screen and (max-width: 420px){
-    #infoPelicula img{
+        top: 40px;
         left: 10%;
         width: 95%;
         height: 450px;
     }
     .datos{
-        top: 20%;
+        top: 50px;
         left: 10%;
         width: 90%;
-        height: 75%;
+        height: auto;
     }
-    iframe {
-        width: 380px;
-        height: 210px;
-    }
-    #controles{
-        width: 50%;
-        left:10%;
-    }
-    #controles a{
+
+    #sinopsis{
         font-size: 20px;
+        height: 320px;
+        overflow: hidden;
     }
     iframe {
-        width: 300px;
-        height: 160px;
-        margin-top: 10px;
+        width: 270px;
+        height: 150px;
+    }
+    #comprarEntrada{
+        width: 90%;
+        left:10%;
+        top: 180px;
+    }
+
+    #pie{
+        position: relative;
+        top: 150px;
+        width: 100%; 
     }
 }

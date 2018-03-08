@@ -66,79 +66,38 @@ body{
     background: purple;
 }
 
-@media screen and (max-width: 1545px){
-    #container{
-        width: 850px;
-        margin-left: 18%;
-    }
-}
-@media screen and (max-width: 1255px){
+@media screen and (max-width: 380px){
     #cabecera{
-        left: 32%;
+        width:95%;
     }
     #container{
-        margin-left: 12%;
-    }
-}
-@media screen and (max-width: 1030px){
-    #cabecera{
-        left: 28%;
-    }
-    #container{
-        width: 90%;
-        margin-left: 10%;
-    }
-}
-
-
-@media screen and (max-width: 965px){
-    #container{
-        flex-flow: column;
-    }
-    .pelicula {
-        margin-left: 20%;
-    }
-}
-
-
-@media screen and (max-width: 800px){
-    #container{
-        width: 65%;
-        margin-left: 15%;
-    }
-}
-@media screen and (max-width: 730px){
-    #cabecera{
-        left: 21%;
-    }
-    #container{
-        margin-left: 8%;
-    }
-}
-@media screen and (max-width: 555px){
-    #cabecera{
-        left: 8%;
-    }
-    #container{
-        width: 35%;
         margin-left: 0;
     }
-    
-}
-@media screen and (max-width: 450px){
-    #cabecera{
-        width:330px;
-        left: 5%;
-    }
-    img {
-        width: 340px;
+    .pelicula img{
+        zoom: 0.8;
     }
     .oculto{
         font-size: 25px;
-        width: 340px;
-        padding-bottom: 23px;
+        width: 320px;
+    }
+}
+
+@media screen and (min-width: 412px){
+    #cabecera{
+        width:95%;
     }
     #container{
-        width: 30px;
+        margin-left: 0;
+    }
+    .pelicula{
+        margin-left: 9%;
+        border:2px solid red;
+    }
+    .pelicula img{
+        zoom: 0.8;
+    }
+    .oculto{
+        font-size: 25px;
+        width: 320px;
     }
 }
