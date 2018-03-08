@@ -1,8 +1,14 @@
 let _data;
 window.onload = function(){ 
+    /*
     readTextFile("data/data.json", function(text){
         _data = JSON.parse(text);
     }); 
+    */
+   readTextFile("/reservasCine/data/data.json", function(text){
+    _data = JSON.parse(text);
+    }); 
+    
     let aux = setTimeout(crearPeliculas, 50);
  };
 

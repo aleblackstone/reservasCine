@@ -87,7 +87,8 @@ function guardarConsulta(valor, clave){
 }
 
 function leerJson(){
-    readTextFile("../data/asientos.json", function(text){
+
+    readTextFile("/reservasCine/data/asientos.json", function(text){
         listaButacas = JSON.parse(text);
     });
 }
