@@ -38,7 +38,7 @@ function guardarCompra(){
     else{
         guardarConsulta(listaButacas,"listaButacas");
         toastr.success("Se han reservado los asientos correctamente, redirigiendo");
-        setTimeout(function(){location.href ="/index.html";},2000)
+        setTimeout(function(){location.href ="/reservasCine/index.html";},2000)
         $(".button-container").find("span").style("background", "green")
     }
     
