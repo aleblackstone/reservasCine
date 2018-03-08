@@ -10,7 +10,7 @@ window.onload = function(){
         }); 
     }*/
     if(listaAsientos == null){
-        readTextFile("/reservasCine/data/data.json", function(text){
+        readTextFile("/reservasCine/data/asientos.json", function(text){
             listaAsientos = JSON.parse(text);
         }); 
     }
