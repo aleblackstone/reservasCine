@@ -24,9 +24,24 @@ function guardarCompra(){
             }
         }
     }
-    guardarConsulta(listaButacas,"listaButacas");
-    toastr.success("Se han reservado los asientos correctamente, redirigiendo");
-    setTimeout(function(){location.href ="/index.html";},2000)
+
+    let datos = $(".input-container").find("input");
+
+    let camposVacios = false;
+    for(let i = 0; i < datos.length; i++){
+        if($(datos[i]).val() == "")
+        camposVacios = true;
+    }
+
+    if(camposVacios == true)
+        toastr.error("Inserte todos los datos.");
+    else{
+        guardarConsulta(listaButacas,"listaButacas");
+        toastr.success("Se han reservado los asientos correctamente, redirigiendo");
+        setTimeout(function(){location.href ="/reservasCine/index.html";},2000)
+        $(".button-container").find("span").style("background", "green")
+    }
+    
 }
 
  function datosAsientos(){
@@ -72,7 +87,8 @@ function guardarConsulta(valor, clave){
 }
 
 function leerJson(){
-    readTextFile("../data/asientos.json", function(text){
+
+    readTextFile("/reservasCine/data/asientos.json", function(text){
         listaButacas = JSON.parse(text);
     });
 }

@@ -20,8 +20,8 @@ body{
 .oculto{
     position: absolute;
     margin-top: -71px;
-    width: 396px;
-    height: 7%;
+    width: 400px;
+    height: 67px;
     background: lightgray;
     opacity: 0.7;
     color: black;
@@ -33,12 +33,20 @@ body{
     height: 100px;
     text-align: center;
     display: flex;
+<<<<<<< HEAD
     justify-content: space-between;
     background: gray;
+=======
+    justify-content: center;
+    background: gray;
+    border: 4px outset darkgray;
+    font-family: 'Courier New', Courier, monospace;
+>>>>>>> 3219c29f34c880ab5262e49d9ad1a317e92dd7d0
 }
 
 #cabecera img{
     position: relative;
+    margin-right: 30px;
     bottom: 50px;
     width: 200px;
     height: 200px;
@@ -51,6 +59,9 @@ body{
 }
 
 .pelicula{
+    border: 4px outset darkgray;
+    background: grey;
+    padding: 5px;
     margin-top: 30px;
     transition: padding 1s;
 }
@@ -60,79 +71,37 @@ body{
     background: purple;
 }
 
-@media screen and (max-width: 1545px){
-    #container{
-        width: 850px;
-        margin-left: 18%;
-    }
-}
-@media screen and (max-width: 1255px){
+@media screen and (max-width: 380px){
     #cabecera{
-        left: 32%;
+        width:95%;
     }
     #container{
-        margin-left: 12%;
-    }
-}
-@media screen and (max-width: 1030px){
-    #cabecera{
-        left: 28%;
-    }
-    #container{
-        width: 90%;
-        margin-left: 10%;
-    }
-}
-
-
-@media screen and (max-width: 965px){
-    #container{
-        flex-flow: column;
-    }
-    .pelicula {
-        margin-left: 20%;
-    }
-}
-
-
-@media screen and (max-width: 800px){
-    #container{
-        width: 65%;
-        margin-left: 15%;
-    }
-}
-@media screen and (max-width: 730px){
-    #cabecera{
-        left: 21%;
-    }
-    #container{
-        margin-left: 8%;
-    }
-}
-@media screen and (max-width: 555px){
-    #cabecera{
-        left: 8%;
-    }
-    #container{
-        width: 35%;
         margin-left: 0;
     }
-    
-}
-@media screen and (max-width: 450px){
-    #cabecera{
-        width:330px;
-        left: 5%;
-    }
-    img {
-        width: 340px;
+    .pelicula img{
+        zoom: 0.8;
     }
     .oculto{
         font-size: 25px;
-        width: 340px;
-        padding-bottom: 23px;
+        width: 320px;
+    }
+}
+
+@media screen and (min-width: 412px){
+    #cabecera{
+        width:95%;
     }
     #container{
-        width: 30px;
+        margin-left: 0;
+    }
+    .pelicula{
+        margin-left: 9%;
+    }
+    .pelicula img{
+        zoom: 0.8;
+    }
+    .oculto{
+        font-size: 25px;
+        width: 320px;
     }
 }
